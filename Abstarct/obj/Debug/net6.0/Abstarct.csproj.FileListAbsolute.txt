@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.AssemblyInfo.cs
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/bin/Debug/net6.0/Abstarct
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/bin/Debug/net6.0/Abstarct.deps.json
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/bin/Debug/net6.0/Abstarct.runtimeconfig.json
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/bin/Debug/net6.0/Abstarct.dll
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/bin/Debug/net6.0/Abstarct.pdb
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.dll
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/refint/Abstarct.dll
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.pdb
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/Abstarct.genruntimeconfig.cache
+/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/Debug/net6.0/ref/Abstarct.dll

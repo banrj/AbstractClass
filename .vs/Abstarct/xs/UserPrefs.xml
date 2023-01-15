@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A54CE927-6EA4-4EE6-931C-43FA198867E1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstarct/LinearClass.cs">
+    <Files>
+      <File FileName="Abstarct/AbstractClass.cs" Line="20" Column="4" />
+      <File FileName="Abstarct/LinearClass.cs" Line="64" Column="31" />
+      <File FileName="Abstarct/ExponentialClass.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Abstarct" expanded="True">
+            <Node name="Abstarct" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Abstarct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
