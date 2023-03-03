@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/Abstarct.csproj",
+      "projectUniqueName": "/Users/macbook/Desktop/KBK_C#/3/Abstarct/Abstarct.csproj",
       "projectName": "Abstarct",
-      "projectPath": "/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/Abstarct.csproj",
+      "projectPath": "/Users/macbook/Desktop/KBK_C#/3/Abstarct/Abstarct.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Desktop/KBK_C#/Abstarct/Abstarct/obj/",
+      "outputPath": "/Users/macbook/Desktop/KBK_C#/3/Abstarct/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }
